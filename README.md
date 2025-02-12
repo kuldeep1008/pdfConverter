@@ -37,6 +37,7 @@ Before running the application, ensure you have the following installed:
 ---
 
 ## Setup and Running the Application
+screenshot1.png
 
 ### 1. Clone the Repository
 
