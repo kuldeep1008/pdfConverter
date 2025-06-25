@@ -42,6 +42,6 @@ screenshot1.png
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/deep0001a/pdfConverter.git
+git clone https://github.com/kuldeep1008/pdfConverter.git
 cd pdfConverter
 
